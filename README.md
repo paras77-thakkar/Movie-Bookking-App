@@ -1,4 +1,4 @@
-# movie_booking
+#MOVIE_BOOKING
 
 Movie Booing App
  - Clone the folder from github.
